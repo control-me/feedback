@@ -22,3 +22,9 @@ Public feedback discussions for ControlMe.
 We encourage you to open a discussion if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. 
 
 <a href="https://github.com/control-me/feedback/discussions">Start discussion &rarr;</a>
+
+<hr>
+
+## Zákaznická podpora / Customer Support
+
+<a href="mailto:support@controlme.cz">support@controlme.cz</a>
