@@ -1,3 +1,13 @@
+# ControlMe Fórum veřejné zpětné vazby
+
+Fórum veřejné zpětné vazby pro ControlMe.
+
+## Podávání návrhů
+
+Doporučujeme vám zahájit diskusi, pokud máte návrhy na to, jak můžeme zlepšit naše výrobky. Nemusíte mít řešení problému, kterému čelíte, abyste zahájili diskusi.
+
+<hr>
+
 # ControlMe public feedback discussions
 
 Public feedback discussions for ControlMe.
