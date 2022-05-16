@@ -1,7 +1,7 @@
-![ControlMe logo](./logo-dark.svg#gh-dark-mode-only)
-![ControlMe logo](./logo-light.png#gh-light-mode-only)
+<img style="height: 32px" alt="ControlMe Logo" src="./logo-light.svg#gh-dark-mode-only" />
+<img style="height: 32px" alt="ControlMe Logo" src="./logo-dark.svg#gh-light-mode-only" />
 
-# ControlMe Fórum veřejné zpětné vazby
+# Fórum veřejné zpětné vazby
 
 Fórum veřejné zpětné vazby pro ControlMe.
 
@@ -11,7 +11,7 @@ Doporučujeme vám zahájit diskusi, pokud máte návrhy na to, jak můžeme zle
 
 <hr>
 
-# ControlMe public feedback discussions
+# Public feedback discussions
 
 Public feedback discussions for ControlMe.
 
