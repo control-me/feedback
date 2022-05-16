@@ -1,3 +1,6 @@
+![ControlMe logo](./logo-dark.svg#gh-dark-mode-only)
+![ControlMe logo](./logo-light.png#gh-light-mode-only)
+
 # ControlMe Fórum veřejné zpětné vazby
 
 Fórum veřejné zpětné vazby pro ControlMe.
